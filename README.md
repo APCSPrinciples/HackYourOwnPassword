@@ -2,9 +2,8 @@
 In this lab you will use Wireshark to capture a *fake* username and password. You will to log into an unencrypted website like one of the following 
 - ftp://ftp.frognet.net/ 
 - ftp://ftp.godaddy.com/ 
-- ftp://ftp.frognet.net/ 
 - ftp://ftp.fuller.net/ 
-- ftp://tigertech.net/ 
+- ftp://ftp.tigertech.net/ 
 - ftp://ftp.got.net/ 
 - ftp://ftp.iconnect.net/  
 - ftp://ftp.lavaworld.in/ 
